@@ -25,7 +25,7 @@ This repository contains a collection of Java codes for various Data Structures 
 
 ### Arrays
 
-* [Array Basics](/Array%20java/Array_Basics.java)
+* [Pair Array](/Array%20java/PairArray.java)
 * [Array Operations](/Array%20java/Array_Operations.java)
 * [Array Sorting](/Array%20java/Array_Sorting.java)
 * [Array Searching](/Array%20java/Array_Searching.java)
