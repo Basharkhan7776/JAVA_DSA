@@ -26,9 +26,14 @@ This repository contains a collection of Java codes for various Data Structures 
 ### Arrays
 
 * [Pair Array](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/PairArray.java)
-* [Buy Sell Stokes](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/BuySellStockes.java)
-* [Array Sorting](/Array%20java/Array_Sorting.java)
-* [Array Searching](/Array%20java/Array_Searching.java)
+* [Buy Sell Stokes](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/BuySellStokes.java)
+* [Trapped Rain Water](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/TrappedRainwater.java)
+* [Sub Array](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/SubArray.java)
+* [Reverse Array](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/Reverse_Array.java)
+* [Max Sub Array Sum](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/Max_Subarray_sum.java)
+* [Largest Number](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/Largest_No_Lin.java)
+* [Kth Rotation](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/KthRotation.java)
+
 
 ### Linked Lists
 
