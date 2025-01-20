@@ -175,10 +175,10 @@ This repository contains a collection of Java codes for various Data Structures 
 * [Subset Problem](/18%20Back%20Tracking/SubSet.java)
 
 # Miscellaneous
-*[Decimal to Binary](/DecToBin.java)
-*[Binary to Decimal](/BinToDec.java)
-*[Check Prime Number](/Check_prime.java)
-*[Calculator](/Calculator.java)
+* [Decimal to Binary](/DecToBin.java)
+* [Binary to Decimal](/BinToDec.java)
+* [Check Prime Number](/Check_prime.java)
+* [Calculator](/Calculator.java)
 
 
 ## Bit Manipulation
