@@ -25,8 +25,8 @@ This repository contains a collection of Java codes for various Data Structures 
 
 ### Arrays
 
-* [Pair Array](/Array%20java/PairArray.java)
-* [Array Operations](/Array%20java/Array_Operations.java)
+* [Pair Array](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/PairArray.java)
+* [Buy Sell Stokes](https://github.com/Basharkhan7776/JAVA_DSA/blob/main/2%20Array%20java/BuySellStockes.java)
 * [Array Sorting](/Array%20java/Array_Sorting.java)
 * [Array Searching](/Array%20java/Array_Searching.java)
 
