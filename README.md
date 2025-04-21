@@ -37,9 +37,9 @@ This repository contains a collection of Java codes for various Data Structures 
 
 ## Linked Lists
 
-* [Singly Linked List](/Linked%20List/LinkedList.java)
-* [Doubly Linked List](/Linked%20List/DoublyLinkedList.java)
-* [Circular Linked List](/Linked%20List/CircularLinkedList.java)
+* [Singly Linked List and All it's Problem](/8%20Linked%20List/LinkedList.java)
+* [Doubly Linked List and All its's Problem](/8%20Linked%20List/DoubleLL.java)
+* [Swap Node](/8%20Linked%20List/Questions.java)
 
 ## Stacks
 
@@ -163,13 +163,13 @@ This repository contains a collection of Java codes for various Data Structures 
 
 ## Dynamic Programming
 
-* [Fibonacci Series](/Dynamic%20Programming/FibonacciSeries.java)
-* [Longest Common Subsequence](/Dynamic%20Programming/LongestCommonSubsequence.java)
-* [Shortest Path Problem](/Dynamic%20Programming/ShortestPathProblem.java)
+* [Fibonacci Series](/20%20Dynamic%20Programming/Fibonacci.java)
+* [Climbing Stairs](/20%20Dynamic%20Programming/CLimbingStairs.java)
+* [0-1 knapsack](/20%20Dynamic%20Programming/Knapsack01.java)
 
 ## Backtracking
 
-* [N Queens Problem](/Backtracking/NQueens.java)
+* [N Queens Problem](/18%20Back%20Tracking/NQueens.java)
 * [Grid Ways Problem](/18%20Back%20Tracking/GridWays.java)
 * [Permutation Problem](/18%20Back%20Tracking/Permutation.java)
 * [Subset Problem](/18%20Back%20Tracking/SubSet.java)
